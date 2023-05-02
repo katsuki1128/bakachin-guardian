@@ -2,8 +2,7 @@
 
 ## DEMO
 
-  - デプロイしている場合はURLを記入（任意）
-  　　デプロイできーん！涙
+  - https://katsuki1128.github.io/bakachin-guardian/
 
 ## 紹介と使い方
 
